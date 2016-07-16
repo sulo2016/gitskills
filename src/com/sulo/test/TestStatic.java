@@ -6,7 +6,7 @@ public class TestStatic {
 		test();
 	}
 	public static void test(){
-		System.out.println("静态主函数内部调用静态方法");
+		System.out.println("test git...");
 	}
 
 }
